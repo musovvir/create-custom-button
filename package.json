@@ -8,6 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
+    "dev": "parcel <your entry file>",
+    "build": "parcel build <your entry file>",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
